@@ -75,8 +75,8 @@
 		9BF70AA9210A660900EDBBBA /* C0736042_S2018_MAD3004_FinalProject */ = {
 			isa = PBXGroup;
 			children = (
-				9BF70AAA210A660900EDBBBA /* main.swift */,
 				9BF70AB1210A661700EDBBBA /* Classes */,
+				9BF70AAA210A660900EDBBBA /* main.swift */,
 			);
 			path = C0736042_S2018_MAD3004_FinalProject;
 			sourceTree = "<group>";
